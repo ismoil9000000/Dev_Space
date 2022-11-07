@@ -1,0 +1,476 @@
+*{
+  text-decoration: none !important;
+  list-style: none;
+}
+.headku{
+  background: rgb(7,0,83);
+  background: linear-gradient(90deg, rgba(7,0,83,1) 0%, rgba(0,70,125,1) 67%, rgba(0,213,139,1) 100%);
+  height: 500px;
+}
+.navbar{
+  height: 80px;
+}
+.box1{
+  height: 50px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar ul{
+  display: flex;
+  align-items: center;
+}
+.navbar ul li{
+  font-size: 17px;
+  margin-right: 22px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.navbar ul li a{
+  color: rgb(255, 255, 255) !important;
+}
+.navbar li a button{
+  padding: 3px 15px;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  background-color: rgba(0,213,139,1);
+}
+.box2{
+  padding-top: 20px;
+  width: 95%;
+  margin: 0 auto;
+}
+.box3 h1{
+  font-size: 50px;
+  color: aquamarine;
+}
+.box3 p{
+  color: white;
+  font-size: 17px;
+}
+.box3 button{
+  margin-top: 15px;
+  padding: 10px 19px;
+  border: 1px solid white;
+  background-color: rgba(240, 248, 255, 0);
+}
+.box3 button a{
+  color: white;
+}
+.box4 img{
+  height: 380px;
+  position: relative;
+  bottom: 10px;
+  object-fit: cover;
+}
+оргпгвкк
+/* start section */
+.box6{
+  height: 190px;
+  background-color: #e6e6e6;
+}
+.box6 p{
+  text-align: center;
+  padding-top: 30px;
+  color: rgb(133, 133, 133);
+}
+.box6 hr{
+  position: relative;
+  bottom: 10px;
+  width: 186px;
+  margin: 0 auto;
+}
+.pnglogo{
+  margin-top: 5px;
+}
+.algolia img{
+  width: 220px;
+}
+.lapa{
+  display: flex;
+  align-items: center;
+}
+.lapa img{
+  width: 100px;
+  align-items: center;
+}
+.hugo{
+  display: flex;
+  align-items: center;
+}
+.hugo img{
+  width: 150px;
+}
+.codeacademy{
+  display: flex;
+  align-items: center;
+}
+.codeacademy img{
+  width: 150px;
+}
+.aws{
+  display: flex;
+  align-items: center;
+}
+.aws img{
+  width: 80px;
+}
+.strip{
+  display: flex;
+  align-items: center;
+}
+.strip img{
+  width: 130px;
+}
+.box7{
+  height: 370px;
+}
+.box8{
+  width: 92%;
+  margin: 0 auto;
+}
+.magiya{
+  text-align: center;
+}
+.fa-wand-magic-sparkles{
+  color: #4d4d4d;
+  font-size: 33px;
+}
+.fa-hourglass-half{
+  color: #4d4d4d;
+  font-size: 35px;
+}
+.fa-font-awesome{
+  color: #4d4d4d;
+  font-size: 40px;
+}
+.text{
+  text-align: center;
+  padding-top: 60px;
+  color: rgb(133, 133, 133);
+}
+.box8 hr{
+  position: relative;
+  bottom: 12px;
+  width: 90px;
+  margin: 0 auto;
+}
+.malumot{
+  margin-top: 30px;
+}
+.box9{
+  height: 750px;
+  background-color: #00004d;
+}
+.box10{
+  width: 95%;
+  margin: 0 auto;
+}
+.text1{
+  position: relative;
+  text-align: center;
+  color: rgb(133, 133, 133);
+  padding-top: 25px;
+}
+.lineka{
+  position: relative;
+  bottom: 10px;
+  width: 100px;
+  color: rgb(133, 133, 133); 
+  margin: 0 auto;
+}
+.box10 h1{
+  font-size: 3.2rem;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  color: white;
+}
+.narxlar{
+  position: relative;
+  top: 30px;
+  width: 400px;
+  margin: 0 auto;
+  height: 400px;
+  background-color: white;
+}
+.text2{
+  position: relative;
+  top: 15px;
+  text-align: center;
+}
+.narxlar hr{
+  position: relative;
+  top: 13px;  
+}
+.text3{
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.narxlar button{
+  padding: 5px 40px;
+  background-color: rgb(17, 17, 17);
+}
+.ww{
+  position: relative;
+  top: 30px;
+  text-align: center;
+}
+.ww button a{
+  color: white;
+}
+.box12{
+  width: 93%;
+  margin: 0 auto;
+}
+.box11{
+  height: 420px;
+  background-color: #e6e6e6;
+}
+.img1 img{
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+}
+.text4{
+  position: relative;
+  text-align: center;
+  color: rgb(133, 133, 133);
+  padding-top: 25px;
+}
+.lineka1{
+  position: relative;
+  bottom: 10px;
+  width: 120px;
+  color: rgb(133, 133, 133); 
+  margin: 0 auto;
+}
+.box12{
+  position: relative;
+  top: 20px;
+}
+.img1 h5{
+  position: relative;
+  top: 13px;
+  color: rgb(56, 56, 201);
+}
+.img1 p{
+  position: relative;
+  top: 7px;
+  color: grey;
+}
+.box13{
+  height: 470px;
+}
+.box13 p{
+  position: relative;
+  text-align: center;
+  color: rgb(133, 133, 133);
+  padding-top: 25px;
+}
+.box13 hr{
+  position: relative;
+  bottom: 10px;
+  width: 150px;
+  color: rgb(133, 133, 133); 
+  margin: 0 auto;
+}
+.box13 i{
+  color: grey;
+  font-size: 80px;
+}
+.box14{
+  position: relative;
+  top: 30px;
+  text-align: center;
+}
+.box14 h1{
+  font-size: 60px;
+}
+.box14 button{
+  position: relative;
+  top: 25px;
+  padding: 5px 20px;
+  border: 1px solid rgb(219, 219, 219);
+  background-color: white;
+}
+.box14 button a{
+  color: black;
+}
+footer{
+  color: white;
+  height: 200px;
+  background-color: #000066;
+}
+.box15{
+  position: relative;
+  top: 40px;
+  width: 93%;
+  margin: 0 auto;
+}
+.d-block{
+  color: grey;
+  position: relative;
+  left: -31px;
+}
+.d-block li{
+  margin-bottom: 20px;
+}
+.d-block li a{
+  color: grey !important;
+}
+/* start media */
+@media only screen and (max-width: 576px) {
+  .headku{
+    height: 480px;
+  }
+  .logo span{
+    display: none;
+  }
+  .navbar ul li{
+    font-size: 0.8em !important;
+  }
+  .box2 h1{
+    font-size: 1.8em !important;
+  }
+  .box2 p{
+    font-size: 0.8em !important;
+  }
+  .box2 button{
+    font-size: 0.8em !important;
+  }
+  .box4{
+    margin-top: 50px;
+    height: 200px;
+    width: 50% !important;
+  }
+  .box4 img{
+    height: 200px;
+    width: 100% !important;
+  }
+  .aws{
+    height: 120px;
+  }
+  .box7{
+    height: auto;
+  }
+  .malumot{
+    width: 60%;
+    margin: 0 auto;
+  }
+  .text{
+    padding-top: 10px;
+  }
+  .magiya{
+    margin-bottom: 20px;
+  }
+  .box9{
+    width: 100% !important;
+    height: 1550px;
+  }
+  .box10 h1{
+    width: 90%;
+    font-size: 2.3em;
+  }
+  .narxlar{
+    width: 62%;
+    margin-bottom: 20px;
+  }
+  .box11{
+    width: 100% !important;
+    height: 1000px;
+  }
+  .box14 i{
+    font-size: 3.5em;
+  }
+  .box13{
+    height: 350px;
+  }
+  .box14 h1{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 3em;
+  }
+  footer{
+    height: 630px;
+  }
+}
+@media only screen and (min-width: 576px) {
+  .headku{
+    height: 450px;
+  }
+  .logo span{
+    display: none;
+  }
+  .navbar ul li{
+    font-size: 0.8em !important;
+  }
+  .box2 h1{
+    font-size: 1.8em !important;
+  }
+  .box2 p{
+    font-size: 0.8em !important;
+  }
+  .box2 button{
+    font-size: 0.8em !important;
+  }
+  .box4{
+    margin-top: 40px;
+    height: 200px;
+    width: 50% !important;
+  }
+  .box4 img{
+    height: 250px;
+    width: 100% !important;
+  }
+  .aws{
+    height: 120px;
+  }
+  .box7{
+    height: auto;
+  }
+  .malumot{
+    width: 60%;
+    margin: 0 auto;
+  }
+  .text{
+    padding-top: 10px;
+  }
+  .magiya{
+    margin-bottom: 20px;
+  }
+  .box9{
+    width: 100% !important;
+    height: 1550px;
+  }
+  .box10 h1{
+    width: 90%;
+    font-size: 2.3em;
+  }
+  .narxlar{
+    width: 62%;
+    margin-bottom: 20px;
+  }
+  .box11{
+    width: 100% !important;
+    height: 1000px;
+  }
+  .box14 i{
+    font-size: 3.5em;
+  }
+  .box13{
+    height: 350px;
+  }
+  .box14 h1{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 3em;
+  }
+  footer{
+    height: 630px;
+  }
+}
